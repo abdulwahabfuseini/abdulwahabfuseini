@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulwahabfuseini" alt="abdulwahabfuseini" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdulwahabfuseini" target="blank"><img src="https://img.shields.io/twitter/follow/Fendi_Bosslyn89?logo=twitter&style=for-the-badge" alt="abdulwahabfuseini" /></a> </p>
-<img align="right" width="40%" height="220" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+<img align="right" width="40%" height="210" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
 
 - 🔭 I’m currently working on A Real State Website
