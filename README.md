@@ -1,9 +1,9 @@
 <h1 align="center">Hi Everyone 👋, I'm Fuseini Abdul Wahab</h1>
-<h3 align="center">A passionate FrontEnd Web Developer</h3>
+<h3 align="center">A Passionate FrontEnd Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwahabfuseini&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwahabfuseini" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulwahabfuseini" alt="abdulwahabfuseini" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulwahabfuseini" target="blank"><img src="https://img.shields.io/twitter/follow/Fendi_Bosslyn89?logo=twitter&style=for-the-badge" alt="abdulwahabfuseini" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Fendi_Bosslyn89" target="blank"><img src="https://img.shields.io/twitter/follow/Fendi_Bosslyn89?logo=twitter&style=for-the-badge" alt="abdulwahabfuseini" /></a> </p>
 <img align="right" width="40%" height="210" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
 
