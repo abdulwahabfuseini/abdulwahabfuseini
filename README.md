@@ -123,9 +123,9 @@
             width="40"
             height="40"
           />
-        </a>
-            
-         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+        </a> 
+         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
          alt="typescript" width="40" height="40"/> </a> 
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img
@@ -151,15 +151,7 @@
             height="40"
           />
         </a>  
-          <a href="https://www.prisma.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg"
-            alt="prisma"
-            width="40"
-            height="40"
-          />
-        </a> 
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
+       <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
             alt="postman"
@@ -167,7 +159,14 @@
             height="40"
           />
         </a>
-        
+        <a href="https://www.prisma.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg"
+            alt="prisma"
+            width="40"
+            height="40"
+          />
+        </a> 
       </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulwahabfuseini&show_icons=true&locale=en&layout=compact" alt="abdulwahabfuseini" /></p>
