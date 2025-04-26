@@ -185,10 +185,10 @@
          </a> 
         </p>
         
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulwahabfuseini&show_icons=true&locale=en&layout=compact" alt="abdulwahabfuseini" /></p>
-        
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulwahabfuseini&show_icons=true&locale=en" alt="abdulwahabfuseini" /></p>
-        
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabfuseini&" alt="abdulwahabfuseini" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulwahabfuseini&show_icons=true&locale=en&layout=compact" alt="abdulwahabfuseini" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulwahabfuseini&show_icons=true&locale=en" alt="abdulwahabfuseini" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabfuseini&" alt="abdulwahabfuseini" /></p>
 
 
