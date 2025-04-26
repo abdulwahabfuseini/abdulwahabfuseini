@@ -94,7 +94,7 @@
         </a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
           <img
-             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+             src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"
              alt="Firebase"
              width="40"
              height="40"
