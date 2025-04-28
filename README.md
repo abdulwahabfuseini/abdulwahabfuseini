@@ -42,20 +42,19 @@ I specialize in building full-stack web solutions, turning complex requirements 
 <details>
   <summary>Click to see Featured Projects</summary>
 
-  ### 1. [Project Name 1] - (e.g., E-commerce Platform)
-  *   **Description:** A full-featured e-commerce site built with [mention key tech] allowing users to browse, search, add to cart, and securely check out. Focused on performance and user experience.
-  *   **Tech:** Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind CSS, Stripe (example)
-  *   **Links:** [Live Demo](your-live-link) | [Repository](link-to-your-repo)
+  ### 1. Moving Health Ambulance Dashboard - (e.g: Ambulance Tracking App)
+  *   **Description:** Built this ambulance dashboard to address challenges in emergency response coordination, this real-time ambulance tracking dashboard provides dispatchers with live vehicle locations, status updates, and efficient assignment tools, ultimately aiming to reduce response times and improve patient outcomes.
+   *   **Tech:** Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind CSS and AWS 
 
-  ### 2. [Project Name 2] - (e.g., Real-time Chat App)
-  *   **Description:** A real-time chat application enabling users to connect and communicate instantly, featuring user authentication and presence indicators.
-  *   **Tech:** React, Node.js, Socket.IO, MongoDB, Firebase Auth (example)
-  *   **Links:** [Live Demo](your-live-link) | [Repository](link-to-your-repo)
+  ### 2. International Trade Properties - (e.g: E-commerce App)
+ *   **Description:** A full-featured e-commerce site built with next.js allowing users to browse, search, add to cart, and securely check out. Focused on performance and user experience.
+  *   **Tech:** Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind CSS and MongoDb 
+  *   **Links:** [Live Demo](https://international-trade-properties.vercel.app/) | [Repository](https://github.com/abdulwahabfuseini/international-trade-properties) 
 
-  ### 3. [Project Name 3] - (e.g., Your Portfolio Website)
+  ### 3. Personal Portfolio  - (e.g: Portfolio Website)
   *   **Description:** My personal portfolio website showcasing my skills and projects, built with Next.js for optimal performance and SEO. Features interactive elements and content management.
-  *   **Tech:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
-  *   **Links:** [Live Demo](your-live-link) | [Repository](link-to-your-repo)
+  *   **Tech:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Vercel and PostgreSQL
+  *   **Links:** [Live Demo](https://portfolio-website-two-tau-94.vercel.app/) | [Repository](https://github.com/abdulwahabfuseini/Portfolio-Website)
 
 </details>
 
