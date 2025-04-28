@@ -47,8 +47,6 @@ I specialize in building full-stack web solutions, turning complex requirements 
   ### 1. Moving Health Ambulance Dashboard - (Ambulance Tracking App)
   *   **Description:** Built to address challenges in emergency response coordination, this real-time ambulance tracking dashboard provides dispatchers with live vehicle locations, status updates, and efficient assignment tools, ultimately aiming to reduce response times and improve patient outcomes.
   *   **Tech:** Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind CSS, AWS (Amplify, Location Service)
-  *   *(Links are missing in your original snippet for this one, add them if available)*
-  *   **Links:** [Live Demo](https://production.dm6rkeldvs87w.amplifyapp.com/) | [Repository](https://github.com/Moving-Health/ambulance-dashboard) *(Ensure this repo link is correct/public if sharing)*
 
   ### 2. International Trade Properties - (E-commerce / Real Estate App)
   *   **Description:** A full-featured platform built with Next.js allowing users to browse, search, list properties/items, and potentially handle inquiries or transactions. Focused on performance, user experience, and secure data handling. *(Adjust description based on actual features)*.
