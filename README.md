@@ -100,7 +100,7 @@ I specialize in building full-stack web solutions, turning complex requirements 
 
 ## 😄 Fun Facts
 
-*   I started coding because I wanted to automate my school assignments (and maybe play more games 😉)!
+*   I started coding because I wanted to automate my school dashboard (and maybe play more games 😉)!
 *   I genuinely believe every line of code has the potential to make someone’s life a little bit easier or more enjoyable!
 
 ---
@@ -110,14 +110,10 @@ I specialize in building full-stack web solutions, turning complex requirements 
 *(See where visitors to my profile are coming from!)*
 
 <p align="center">
-  <a href="YOUR_CLUSTRMAPS_PROFILE_LINK_HERE" target="_blank">
-    <img src="YOUR_CLUSTRMAPS_MAP_IMAGE_URL_HERE" alt="Visitor Map" />
-  </a>
-  <br/>
+<a href="https://clustrmaps.com/site/1c5rw" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=Pi-Jr-acrCNLn0N-0tIh3enPTjmQvLkuNqO7TcltrbQ&cl=ffffff">
+</a>  <br/>
   <small>Map from <a href="https://clustrmaps.com/" target="_blank">ClustrMaps</a></small>
 </p>
-
-*(**Note:** Replace the `YOUR_CLUSTRMAPS_..._URL_HERE` placeholders above with your actual ClustrMaps URLs after signing up)*
 
 ---
 
@@ -138,14 +134,10 @@ I specialize in building full-stack web solutions, turning complex requirements 
 If you like what I do or find my projects helpful, consider supporting my work:
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://buymeacoffee.com/abdulwahabfuseini" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
-
-*(**Note:** Replace `yourusername` in the link above with your actual Buy Me A Coffee username!)*
-
----
 
 ## 📫 Let's Connect!
 
