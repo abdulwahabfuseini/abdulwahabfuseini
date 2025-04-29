@@ -37,8 +37,6 @@ I specialize in building full-stack web solutions, turning complex requirements 
 
 ## ✨ Featured Projects
 
-*(Showcase 1-3 of your best projects here. Replace placeholders)*
-
 <details>
   <summary><strong>Click to see Featured Projects</strong></summary>
 <br/>
