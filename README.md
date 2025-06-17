@@ -6,17 +6,12 @@
   
   <p>I build high-performance, scalable, and user-centric web applications from the ground up. Passionate about turning complex problems into elegant software solutions and creating seamless digital experiences.</p>
   
-  <!-- Social Badges -->
+  <!-- Social & Contact Badges -->
   <p>
     <a href="https://www.linkedin.com/in/fuseini-abdul-wahab-58b502237/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
-   </a>
     <a href="mailto:abdulwahabfuseini78@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail"></a>
-  </p>
-  
-  <!-- Profile Stats -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=abdulwahabfuseini&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
     <a href="https://github.com/abdulwahabfuseini?tab=repositories" target="_blank"><img alt="Repositories" src="https://img.shields.io/github/stars/abdulwahabfuseini?label=My%20Repos&style=for-the-badge&color=34D399&logo=github"></a>
+    <img src="https://komarev.com/ghpvc/?username=abdulwahabfuseini&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
   </p>
 </div>
 <p align="center">
@@ -27,14 +22,14 @@
 
 ---
 
-## 🚀 What I Do
+### 🚀 About Me & What I Do
 
-I specialize in building full-stack web solutions, turning complex requirements into functional, user-friendly applications. My key areas of focus include:
+I specialize in building full-stack web solutions, turning complex requirements into functional, user-friendly applications. My core expertise lies in:
 
-*   **Frontend Development:** Crafting responsive, interactive, and accessible user interfaces using **React**, **Next.js**, **TypeScript**, HTML5, CSS3, and **Tailwind CSS**.
-*   **Backend Development:** Building secure, scalable REST APIs and server-side logic with **Node.js**, **Express**, and integrating databases effectively using ORMs like **Prisma**.
-*   **Database Management:** Designing and managing efficient databases with **PostgreSQL** and **MongoDB**.
-*   **Cloud & Deployment:** Deploying and managing applications on platforms like **Vercel**, **Firebase**, **AWS**, and **GCP**, often utilizing **Docker** for containerization.
+*   **Frontend Development:** Crafting responsive and interactive user interfaces with **React, Next.js, and TypeScript**.
+*   **Backend Development:** Building secure, scalable REST APIs and server-side logic using **Node.js, Express, and Prisma**.
+*   **Databases:** Designing and managing efficient databases with **PostgreSQL and MongoDB**.
+*   **Cloud & Deployment:** Deploying and managing applications on **AWS, GCP, Firebase, and Vercel**, often using **Docker** for containerization.
 
 ---
 
@@ -46,44 +41,60 @@ I specialize in building full-stack web solutions, turning complex requirements 
 
 ---
 
-## 💻 Tech Stack & Skills
+### 💻 Tech Stack & Skills
 
-I am proficient in a wide range of technologies for building and deploying modern web applications.
+#### Frontend
+<p>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48"/></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/></a>
+</p>
 
-| Frontend                                                                                                                                                                                                                                                                                                        | Backend                                                                                                                                                                                                                                                          | Databases & ORMs                                                                                                                                                                                                                                                            | Cloud, DevOps & Tools                                                                                                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="48" height="48"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="prisma" width="48" height="48"/> | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="48"/> |                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> |
+#### Backend & Databases
+<p>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48"/></a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="48" height="48"/></a>
+    <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/></a>
+    <a href="https://www.prisma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma" width="48" height="48"/></a>
+</p>
+
+#### Cloud, DevOps & Tools
+<p>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/></a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="48" height="48"/></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/></a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/></a>
+</p>
 
 ---
 
-## 🔭 I'm Currently Working On
-
-*   **Ambulance Tracking System:** Enhancing real-time data processing and system reliability to improve emergency response coordination.
-*   **SEO & Digital Marketing:** Deepening my expertise in SEO principles to build applications with greater visibility and user reach.
-*   **Performance Optimization:** Continuously exploring new techniques for building highly performant and scalable applications.
-
----
-
-## ✨ Featured Projects
+### ✨ Featured Projects
 
 <details>
   <summary><strong>Click to see my featured projects</strong></summary>
   <br/>
   
-  ### 1. Moving Health Ambulance Dashboard
-  *   **Description:** A real-time ambulance tracking dashboard designed to reduce emergency response times. It provides dispatchers with live vehicle locations, status updates, and efficient assignment tools to improve patient outcomes.
-  *   **Tech Stack:** Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind CSS, AWS (Amplify, Location Service).
+  #### 1. Moving Health Ambulance Dashboard
+  -   **Description:** A real-time ambulance tracking dashboard designed to reduce emergency response times. It provides dispatchers with live vehicle locations, status updates, and efficient assignment tools to improve patient outcomes.
+  -   **Tech Stack:** Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind CSS, AWS (Amplify, Location Service).
 
-  ### 2. International Trade Properties
-  *   **Description:** A full-stack e-commerce and real estate platform where users can browse, search, and list properties. Built with a focus on performance, SEO, and a seamless user experience.
-  *   **Tech Stack:** Next.js, React, Node.js, PostgreSQL, Prisma, MongoDB, Tailwind CSS.
-  *   **Links:** [**Live Demo**](https://international-trade-properties.vercel.app/) | [**Repository**](https://github.com/abdulwahabfuseini/international-trade-properties)
+  #### 2. International Trade Properties
+  -   **Description:** A full-stack e-commerce and real estate platform where users can browse, search, and list properties. Built with a focus on performance, SEO, and a seamless user experience.
+  -   **Tech Stack:** Next.js, React, Node.js, PostgreSQL, Prisma, MongoDB, Tailwind CSS.
+  -   **Links:** [**Live Demo**](https://international-trade-properties.vercel.app/) | [**Repository**](https://github.com/abdulwahabfuseini/international-trade-properties)
 
-  ### 3. Personal Portfolio Website
-  *   **Description:** A dynamic and responsive portfolio website built to showcase my skills and projects. Optimized for performance and SEO, featuring interactive elements and dynamic content.
-  *   **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, PostgreSQL, Vercel.
-  *   **Links:** [**Live Demo**](https://portfolio-website-two-tau-94.vercel.app/) | [**Repository**](https://github.com/abdulwahabfuseini/Portfolio-Website)
+  #### 3. Personal Portfolio Website
+  -   **Description:** A dynamic and responsive portfolio website built to showcase my skills and projects. Optimized for performance and SEO, featuring interactive elements and dynamic content.
+  -   **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, PostgreSQL, Vercel.
+  -   **Links:** [**Live Demo**](https://portfolio-website-two-tau-94.vercel.app/) | [**Repository**](https://github.com/abdulwahabfuseini/Portfolio-Website)
   
   <br/>
   ➡️ **View all my projects [here](https://github.com/abdulwahabfuseini?tab=repositories).**
@@ -96,7 +107,9 @@ I am proficient in a wide range of technologies for building and deploying moder
 *   I started coding because I wanted to automate my school dashboard (so that i can make some changes on it 😉)!
 *   I genuinely believe every line of code has the potential to make someone’s life a little bit easier or more enjoyable!
 
-## 📊 GitHub Statistics
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulwahabfuseini&show_icons=true&theme=radical&hide_border=true&locale=en&rank_icon=github" alt="GitHub Stats" />
@@ -106,21 +119,12 @@ I am proficient in a wide range of technologies for building and deploying moder
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabfuseini&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
+
 ---
 
-## 🙌 Support Me
+### 📫 Connect With Me & Support My Work
 
-If you like what I do or find my projects helpful, consider supporting my work:
-
-<p align="left">
-  <a href="https://buymeacoffee.com/abdulwahabfuseini" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
-## 📫 Get in Touch
-
-I'm always open to discussing new projects, freelance opportunities, or just to chat about tech. Feel free to reach out!
+I'm always open to discussing new projects, freelance opportunities, or just to chat about tech!
 
 *   **Email:** [abdulwahabfuseini78@gmail.com](mailto:abdulwahabfuseini78@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/fuseini-abdul-wahab-58b502237](https://www.linkedin.com/in/fuseini-abdul-wahab-58b502237/)
@@ -129,3 +133,11 @@ I'm always open to discussing new projects, freelance opportunities, or just to 
       <a href="https://www.instagram.com/fendi_bosslyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="60" /></a>
       <a href="https://twitter.com/Fendi_Bosslyn89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="60" /></a>
     </p>
+
+
+If you like what I do or find my projects helpful, consider supporting my work:
+<p align="left">
+  <a href="https://buymeacoffee.com/abdulwahabfuseini" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
