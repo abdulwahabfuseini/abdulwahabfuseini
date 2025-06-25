@@ -115,9 +115,7 @@ I specialize in building full-stack web solutions, turning complex requirements 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulwahabfuseini&show_icons=true&theme=radical&hide_border=true&locale=en&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabfuseini&layout=compact&theme=radical&hide_border=true&locale=en" alt="Top Languages" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabfuseini&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+
 
 
 ---
