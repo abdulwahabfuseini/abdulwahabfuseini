@@ -120,6 +120,11 @@ I specialize in building full-stack web solutions, turning complex requirements 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabfuseini&theme=radical&hide_border=true&locale=en&cache_seconds=3600" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahabfuseini&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+
 
 ---
 
