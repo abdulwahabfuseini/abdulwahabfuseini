@@ -380,7 +380,8 @@ If you have an idea, a business problem, or an existing application that needs i
 https://www.linkedin.com/in/fuseini-abdul-wahab-58b502237/
 
 **Portfolio:**
-https://portfolio-website-two-tau-94.vercel.app/
+https://abdulwahabfuseini-portfolio.vercel.app/
+
 
 **GitHub:**
 https://github.com/abdulwahabfuseini
