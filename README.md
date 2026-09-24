@@ -10,7 +10,7 @@
 I work across the full stack — from responsive interfaces and APIs to databases, authentication, cloud infrastructure, and production deployment.
 
 <p>
-  <a href="https://portfolio-website-two-tau-94.vercel.app/">
+  <a href="https://abdulwahabfuseini-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/fuseini-abdul-wahab-58b502237/">
